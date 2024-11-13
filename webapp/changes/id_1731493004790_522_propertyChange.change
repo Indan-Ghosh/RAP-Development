@@ -7,7 +7,7 @@
     "packageName": "",
     "content": {
         "property": "useExportToExcel",
-        "newValue": false
+        "newValue": true
     },
     "selector": {
         "id": "com.ig.tproc.travelprocessorapp::sap.suite.ui.generic.template.ListReport.view.ListReport::Travel--listReport",
@@ -18,7 +18,7 @@
     "texts": {},
     "namespace": "apps/com.ig.tproc.travelprocessorapp/changes/",
     "projectId": "",
-    "creation": 1731493004790,
+    "creation": 1731525703646,
     "originalLanguage": "",
     "support": {
         "generator": "changeUtils: SAPFioriTools",
