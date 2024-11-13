@@ -1,5 +1,5 @@
 {
-    "fileName": "id_1731473047384_10_propertyChange",
+    "fileName": "id_1731493004790_522_propertyChange",
     "fileType": "change",
     "changeType": "propertyChange",
     "moduleName": "",
@@ -7,7 +7,7 @@
     "packageName": "",
     "content": {
         "property": "useExportToExcel",
-        "newValue": true
+        "newValue": false
     },
     "selector": {
         "id": "com.ig.tproc.travelprocessorapp::sap.suite.ui.generic.template.ListReport.view.ListReport::Travel--listReport",
@@ -18,7 +18,7 @@
     "texts": {},
     "namespace": "apps/com.ig.tproc.travelprocessorapp/changes/",
     "projectId": "",
-    "creation": 1731473047384,
+    "creation": 1731493004790,
     "originalLanguage": "",
     "support": {
         "generator": "changeUtils: SAPFioriTools",
